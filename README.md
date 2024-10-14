@@ -10,7 +10,7 @@ Este é um projeto simples de um jogo de adivinhação onde o usuário tenta adi
 
 ## Como Jogar
 
-1. Ao iniciar o jogo, o computador escolherá um número aleatório entre 1 e 100.
+1. Ao iniciar o jogo, o computador escolherá um número aleatório entre 1 e 1000.
 2. O jogador deve tentar adivinhar o número.
-3. Para cada tentativa, o jogo informará se o palpite está muito alto, muito baixo ou correto.
-4. O objetivo é adivinhar o número com o menor número de tentativas possível.
+3. Para cada tentativa, o jogo informará se o palpite está é maior, menor ou correto.
+4. O objetivo é adivinhar o número com o menor número de tentativas possíveis.
